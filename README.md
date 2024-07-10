@@ -1,3 +1,5 @@
 # my-coding-ship-log
 
-Author: Coding Temple
+Author: Coding Temple 
+
+This is a new line
